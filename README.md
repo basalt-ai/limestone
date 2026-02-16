@@ -30,6 +30,20 @@ You've built evaluation pipelines on quicksand. Your judges work fine in demos, 
 
 ---
 
+## Introducing Limestone
+
+Evaluators that earn your trust before they touch production. Limestone brings rigorous methodology to LLM-as-a-judge, so you stop guessing and start measuring.
+
+**Built from expert feedback.** Run structured sessions where domain experts critique real outputs in natural language. No more inventing criteria in a vacuum.
+
+**Auto-extracted error categories.** Limestone identifies recurring failure patterns from expert feedback and converts them into precise, structured evaluation criteria.
+
+**Stress-tested for reliability.** Every evaluator is validated against alignment datasets before deployment. You know exactly how consistent your judge is — and where it breaks.
+
+**Measurable confidence.** Target 100% reliability before deploying an evaluator. If your judge can't pass its own eval, it doesn't ship.
+
+---
+
 ## The Basalt Stack
 
 Limestone is part of a complete AI evaluation ecosystem:
